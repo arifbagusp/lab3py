@@ -144,7 +144,7 @@
 
 ### Flowchart
 
-<img src="Screenshot/Flowchart_Pic.png">
+<img src="screenshoot/ss_flowchart.png">
 
 * Masukkan jari-jari lingkaran (r)
 * Hitung Luas Lingkaran dengan rumus L = pi * r * r
