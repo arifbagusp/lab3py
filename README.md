@@ -140,7 +140,7 @@
 * line 14 : menghasilkan output keliling menggunakan f string
 
 >output
-<img src="Screenshot/Lingkaran_output.png">
+<img src="screenshoot/lingkaran1.png">
 
 ### Flowchart
 
@@ -151,11 +151,4 @@
 * Hitung Keliling Lingkaran dengan rumus K = 2 * pi * r 
 * Tampilkan Luas Lingkaran
 * Tampilkan keliling lingkaran
-## latihan 1
-![gambar 1](screenshoot/latihan1.png)
-![gambar 2](screenshoot/latihan1%20(2).png)
-![gambar 3](screenshoot/latihan1%20(3).png)
-## latihan 2
-![gambar 1](screenshoot/latihan2.png)
-## latihan 3
-![gambar 1](screenshoot/latihan3.png)
+
