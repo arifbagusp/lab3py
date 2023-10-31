@@ -113,7 +113,7 @@
 *  for k in range(lebar_belah_ketupat-i) : loop mencetak bintang pada setiap baris bagian bawah
 
 >output
-<img src="Screenshot/Latihan3_output.png">
+<img src="screenshoot/latihan3.png">
 
 ### Lingkaran
     import math
